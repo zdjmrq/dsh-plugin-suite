@@ -1,0 +1,6 @@
+# Bilingual-pair consistency record (docs/i18n/README.md): the git blob hash of each
+# side as of the last confirmed-consistent state. Both languages carry equal authority;
+# after editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write .agents/notes/implemented/feature/2026-08-15-command-guard-model-check-refactor.md
+2026-08-15-command-guard-model-check-refactor.md: d5f3340cfbc0f3fd0ead0406ea4f9b6cbcc343d7
+2026-08-15-command-guard-model-check-refactor.zh.md: eb30a20e82f7461d75c6e5ba587c7bacb3d7aa14

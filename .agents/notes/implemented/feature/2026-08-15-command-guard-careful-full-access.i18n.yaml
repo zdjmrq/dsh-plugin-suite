@@ -2,5 +2,5 @@
 # side as of the last confirmed-consistent state. Both languages carry equal authority;
 # after editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write .agents/notes/implemented/feature/2026-08-15-command-guard-careful-full-access.md
-2026-08-15-command-guard-careful-full-access.md: 5f0c4f7e2c3010fd20f28a0d46ee9cd89dfe492f
-2026-08-15-command-guard-careful-full-access.zh.md: cb89f0404b28141ea0fb90e35af6d368395f4e24
+2026-08-15-command-guard-careful-full-access.md: 9d7202c75d6eddf276b3e7cd81a91d2bfe847d6d
+2026-08-15-command-guard-careful-full-access.zh.md: b0cddf28eb2c86126b36b06c731180376e0d76bf
