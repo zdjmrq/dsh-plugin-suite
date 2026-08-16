@@ -43,6 +43,7 @@ pnpm dsh web
 
 - [dsh-careful-full-access](https://github.com/zdjmrq/dsh-careful-full-access) —— 「命令守卫 + careful-full-access 沙箱模式」的单功能独立发行（自带 `patches/careful-full-access.patch` 核心补丁，支持 npm 安装），适合只想要这一项的场合；
 - [dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) —— 「关闭后台 / 刷新前端」的单功能独立发行（`install.patch` 仅含该功能），适合只想要这一项的场合；
+- [dsh-text-open-source](https://github.com/zdjmrq/dsh-text-open-source) —— 「文字开源」枢纽仓库:本套件的可复刻文字描述见 [plugins/dsh-plugin-suite.md](https://github.com/zdjmrq/dsh-text-open-source/blob/main/plugins/dsh-plugin-suite.md)(不依赖代码即可复刻、便于理解与微调);
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) —— 官方上游。
 
 ## License
