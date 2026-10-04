@@ -1,3 +1,6 @@
+> [!WARNING]
+> **本仓库已废弃** —— 相关能力已随 dsh 正式版本内置发布，无需再安装本插件；仓库仅作历史存档，不再维护。
+
 # dsh-plugin-suite
 
 DeepSeek Harness **定制插件套件**（局部 fork）。本仓库只携带对官方 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) 的**改动切片**——新增的插件包（源码 + 构建产物）+ 一张完整累计补丁——不携带整个官方仓库，因此轻量、易浏览；后续所有"需要改动宿主内部"的插件都按同样的方式收纳进这里。
